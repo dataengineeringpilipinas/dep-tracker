@@ -1,5 +1,5 @@
 # Barangay DEP Tanod Tracker App
-[https://depticketing.pythonanywhere.com/](https://deptracker.pythonanywhere.com/)
+[https://deptracker.pythonanywhere.com/](https://deptracker.pythonanywhere.com/)
 
 #### A [Puso Project](https://www.thepusoproject.ph/) by [Data Engineering Pilipinas](https://dataengineering.ph/)
 
