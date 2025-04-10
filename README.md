@@ -15,7 +15,7 @@ To join, you just need the enough basic knowledge of Python, Flask and GitHub PR
 
 ###How to copy and deploy the app to your Barangay
 
-1. Clone [https://github.com/dataengineeringpilipinas/dep-ticketing.git](https://github.com/dataengineeringpilipinas/dep-tracker.git)
+1. Clone [https://github.com/dataengineeringpilipinas/dep-tracker.git](https://github.com/dataengineeringpilipinas/dep-tracker.git)
 2. Install dependencies.
 3. Run the app locally and adjust the code to your liking including the look-and-feel of your Barangay. 
 4. Deploy the app in [PythonAnywhere](https://www.pythonanywhere.com/). It has a free tier. Please see some steps below on how to deploy a Flask app in PythonAnywhere.
