@@ -3,7 +3,7 @@
 
 #### A [Puso Project](https://www.thepusoproject.ph/) by [Data Engineering Pilipinas](https://dataengineering.ph/)
 
-![Barangay DEP Tanod Tracker Codebase](https://github.com/dataengineeringpilipinas/dep-tracker)
+[Barangay DEP Tanod Tracker Codebase](https://github.com/dataengineeringpilipinas/dep-tracker)
 
 
 ## Pre-requisites
