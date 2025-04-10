@@ -23,14 +23,26 @@
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
             margin-bottom: 20px;
         }
+        .navbar-brand img {
+            transition: transform 0.3s ease;
+        }
+        .navbar-brand:hover img {
+            transform: scale(1.05);
+        }
     </style>
 </head>
 <body>
     <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary mb-4">
         <div class="container">
-            <a class="navbar-brand" href="{{ url_for('index') }}">
-                <i class="fas fa-map-marker-alt me-2"></i>Location Tracker
+            <a class="navbar-brand d-flex align-items-center" href="{{ url_for('index') }}">
+                <!-- Logo Image -->
+                <img src="{{ url_for('static', filename='images/barangay-dep.png') }}" 
+                     alt="Barangay Logo" 
+                     height="70"
+                     class="d-inline-block align-top me-2">
+                <!-- App Name -->
+                <span><h1>Tanod Tracker</h1></span>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
